@@ -1,0 +1,64 @@
+[
+  {
+    "domain": "labs.google",
+    "expirationDate": 1766210709,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "EMAIL",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%22mrik247%40gmail.com%22"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Host-next-auth.csrf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "8a2deb8eded23b210b09dc561447cea814bb77fac80874b875fba724d38b0fe7%7C3930d4386e54fd4e3037e10e708ef08c1a4d7bc9226a14254b4afbb3f84b0d31"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.callback-url",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "https%3A%2F%2Flabs.google%2Ffx%2Ftools%2Fwhisk%2Fproject%2F20f1f9ea-e763-4ed0-afd3-b1537ef24253%3Fview%3DANIMATE%26imageId%3Dstoryboard-8faccadd-7ca4-42b3-b82f-b7c67aeda5ce"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "email",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "moonmoonakter78%40gmail.com"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1767004674.302658,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.session-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..BsiQNwgSmIG5xUXi.mvzU0ur41wx05JobidZHF4MAP7sn10wUFO58K2JeTW-WnCAJV9zE8L7kZn0AKQEpOCfgMosgok2QV7oWH9ZnIT3YfVwQuk9Fv19xhlfwMyXgPNpRFpuXfETMVmBF9IqJxZm51rPMVwqJoniQorlsnO9tvyE7imrAJ3hH7xzxMC-MdAgkdJVKq_cOEymLOVxD6UWG-3t1Z15h52a5op22g82ZnxnkLYKHkZX8WH75xOOmknHmWhvCYSHcMhOxc9tJsv6Ns4wnoWv0hzBLroxXh7bZ-jInvCv7YDDgntGHlVLI0ngzWeXgW1KmhDWZlpBUFdEkAVz0I7bwuMkMYmhvUOzf0MPKb6CrjcG5HgNBeWVTZ_of32Uxrvd0gSYXgavp4CSnECurp5xk83zUONBOjATuuSd12SRQvb0A6r2rmPcVLyX2Q9tqnmHSTZzn6oPUsqCxygVSaH1MNYtnYaGcC1ELOwAXFf0welQJYGpK3xATdbyKI-u_HEFYKyEwu-emdjApYb0GqK2ZKQMk9cx0tnK4a7NWq6w3YbMG3HtD_ynSvOXMyD6opoo5fPwc2cGKMJ4TVe1yR5jpN6yCBOqMdjQosIVvxfvbnmEN_6NlpLchcdglCGvqh9AnMvAtTUEHEegC_4CkheXzivSqVnBYTwfMVtHagDiw8qZfdIDuCNbtwkMlcmPFqm3PuYrTUSn08zyDBtZEp2zBPURtB0X4O8UzlDIpLAYAq-7wtcQiDPrVQKl9yQNimPBicnxyB2vJPyDycny-SMHe8HXYEQkdLfXQttodsZpfzr3uvSFl90rNASrioFCzy7Bcounv5WTASTq4XpIJsL9cF7NXr2ceP_JR9Z5j4mSYnLui7Ccbk0TFK0lROmCeBqLj8vXiGiGgswntmNfDaaJMfxzcFnY57ZOA-WhDTa25dfuoyUc366LiS0e6l8JmzsRMQJt8ASmdYqqqbmdLiMzVgNOQ4h4zTjgjyllA3x-9ggbK8qA._8ppMikS9OI24zaIL53zQg"
+  }
+]

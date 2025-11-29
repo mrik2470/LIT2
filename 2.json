@@ -1,0 +1,103 @@
+[
+  {
+    "domain": ".labs.google",
+    "expirationDate": 1798972480.466869,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.1.1390011013.1763983449"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1766575462,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "EMAIL",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%22asaf30%40lorly.shop%22"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Host-next-auth.csrf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "7ec43d0c1261461aecf263009186c264029eb979ed9fc4bb5e758ff72f9af60c%7Cc497f011f433f84d64f03236dd2c4a57b5db6c17920b6d089dd64a1fb2ea857f"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.callback-url",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "https%3A%2F%2Flabs.google%2Ffx%2Ftools%2Fflow"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "email",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "asaf30%40lorly.shop"
+  },
+  {
+    "domain": ".labs.google",
+    "expirationDate": 1798951664.038556,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_5K7X2T4V16",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS2.1.s1764390660$o12$g1$t1764391664$j60$l0$h0"
+  },
+  {
+    "domain": ".labs.google",
+    "expirationDate": 1798972480.494567,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_X2GNH8R5NS",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS2.1.s1764412479$o17$g1$t1764412480$j59$l0$h1894302360"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1767004483.200037,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.session-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..MMce-iY8T8Y9bSUG.0tiPACmg2uLSvIzPpBchhAwVboMi9oaeplz1yptRFn-6f-CN6ymSKDTukXioQ4-WuUwHgu-bt1naZe4gGxfqB2UoJVIekoGdQmwUzDsMtEO6BQglWKSITqN0cZFLNfxpVqq0FjVSNsouGYJFkQbSvs0wyYZ0BNnD__bkajaa5Iz4f3EpyGyW1IyDL_eIfR-eTl_72a05lg7yqN6NzQ_h3hrz70uFWFsUdYr_gR9n5pG83OgOBRZN8P9K4BchybbZyp7hWfIZOXiu9K3jaPXED8vWBVWQiyq7rFaCQZ_kKYQprsTBzmxLK-iGaJs2UoM8V3y2Tb8JMal74LkCtoXRIaQ2PL5ZpSWulALE06qCC9v63Sxl0wWRauwUkn1F_bpHxLlOPRZxwG05GcQU9-mWz6Dkks36cx2HiQLBu_DMDZpbdUBjojjKZiafDKR0ZT9D4817SUpOkEBJXhPBanVZZrW5vAht2taH9kjBwphq6oxlVhjloJN6zdDGQKxrsnmelEq1HSjafGXeM1DUFd0ojzQg0JAUssz50G3xGo-xl2W1UvWjd6xR4C6e-c70uwNd0_ONsi16dswECu0HO281wsczJfXCJWWs5qiG_JqovWgDNxOMWURAogp22qCC0KsxwAs11DqCQmo8AbSx6GFgoUhTX4ZH3vYLK0LftTBVqfmRZYJiIXEJcBU2twXEGpyq04X0oDcGblkugFGoWnOOAiGjZPiN9i68orEFA-HDzqlfV-9_za8sAVF7puZfd3FKsLUaWybwOysVeI51w3GB_OS8EsHEf5_nrvoL75ogvsiHHZfue1jHhiWopxozx4LgKU66uXaUBzgFhNmCrqhrnM4CzuP7R8UgnK1Oy9pyEV-Eu4VTZlCyO9vxRXSwUiKGz3eYArK_XugqVPNZSjTiuUz7dHrdXoUYbgvYGSYkYiMMUtsyTcdIgMvTe53a94mPkLVKsAifxQAAYJM43-0G.DnOZO7Ea-Zurv-Twy--2yw"
+  }
+]

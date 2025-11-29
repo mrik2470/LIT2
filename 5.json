@@ -1,0 +1,64 @@
+[
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Host-next-auth.csrf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "8a2deb8eded23b210b09dc561447cea814bb77fac80874b875fba724d38b0fe7%7C3930d4386e54fd4e3037e10e708ef08c1a4d7bc9226a14254b4afbb3f84b0d31"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.callback-url",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "https%3A%2F%2Flabs.google%2Ffx"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "email",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "mdrakibulislamkabbo%40gmail.com"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1767004696,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "EMAIL",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%22mdrakibulislamkabbo%40gmail.com%22"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1767004703.626564,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.session-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..N-_tFfxQgvab5FYx.RcaQbwzHkIOErx9RO2ykHmGVY1ZbXfJc5Nz71LF8dvVoL8SUtfaPQ0GyzU7YhXlJEzqYiM54v6fUIpOUrKlTNsdPg-fhY_ZxvF3CrQD-Qph6GhdwVR01s-F20hjyoyGcJ6QdFnosyLo49e-onKyqw4ni9q1ghWLFwCEpAukrYeMqKO1EPEXZMR6GG248bG4KPHvRk5BkbTWsfWZADHoYrW3hW6LPrmnC-C5gRGzkJR3mQm40nKtisJDl6sESNPsXUftZqQsY08wwk6g-zbXNccp2dah34irbzLXUCPO8rJAOecRjVGLnIAGQ1bK8Qpv4WQUKZEq79rh9aKERw0QIYK10pLBTnevtdkzvunz7UugkaGc216o8XRF67XB9S12yeI95dcK1pbNr6thEV0vSWVWxlJYUegVbVDejINL29j_PNL4KSezRWAeqNTRLR2Q6YQYlkKxzynTeoxcygLCIu8YycCGHUuB6agOioxe0w8EIIN_RH7pLl0Hp3Xe_p4RP26d5NYC8G7CTLZEIuV9GpcOx_TSxTSrMUWiigZv4Bh-DzuNYIGeAVB-Uaz6-bFpdOk9jkZ08QyY5tAkk1OCad_Aow3L5twKqaXYI6f40kP5V6czdO4kbeiCE57-3K8u6ObzuMEV9qGjI5TLCzaQFL9PEfAfYHivytRweKNuKklO65gcxPzdixuWN6IN9pmPmWE-1weKmhycSg_CTxoIYmNceHD2vCGfz5OthzO1Y5m8CkcTuAxjSu_T0jd772kP2X6iG7ZnsGRriySY4HbjUfI33HC1eIPCtFX_7QowGn_5NtZauNUQcyUUZW3mAtS7fYAvpunPsuxAPbETovU4VAq-51stj7Tttg0L_EEogDk1pU_ozA1Vw54FwDp6SfP8ORFg-LpV8o4kp71tM7dDpXxPYAALeUMxNvnE9Ali2A6A52xEyOQmkYAcgzlLU9hliRna_9kZHERW3PcN48oT_jWxD6ITCyz-kBT8grrAcex1vrICSEG_72n1U0A5kJQ.RwMkGKF2s3fOxB9pX_XR2Q"
+  }
+]
