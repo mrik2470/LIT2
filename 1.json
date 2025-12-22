@@ -1,7 +1,43 @@
 [
   {
     "domain": "labs.google",
-    "expirationDate": 1768889752,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Host-next-auth.csrf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "c08d6e70f3aee4963f11c626059db792a51dd9c903e384f8881fd1df9ab22173%7C7c0731078d6cfab18264ec73eabde6c9e78b8a5c8a1c348a34d6b123fc962a62"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.callback-url",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "https%3A%2F%2Flabs.google%2Ffx"
+  },
+  {
+    "domain": "labs.google",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "email",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "mrik247%40gmail.com"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1768972418,
     "hostOnly": true,
     "httpOnly": false,
     "name": "EMAIL",
@@ -14,31 +50,7 @@
   },
   {
     "domain": "labs.google",
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "__Secure-next-auth.callback-url",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "https%3A%2F%2Flabs.google"
-  },
-  {
-    "domain": "labs.google",
-    "hostOnly": true,
-    "httpOnly": true,
-    "name": "__Host-next-auth.csrf-token",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "2424cac313c12f4ff2ed6b8be5a591bdbdc2e5a245cdd7d96d698565784d3c25%7C7cdb822846bbf1fda7b7e5c257cf5630816daaedff5403c12ce8650c55bf5c00"
-  },
-  {
-    "domain": "labs.google",
-    "expirationDate": 1768910203.098659,
+    "expirationDate": 1768986464.286844,
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Secure-next-auth.session-token",
@@ -47,6 +59,6 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..9Xdk3mMi9FKNngFY.oe8EMYsucXSqnXHaTwDN-0bHVL93nShxt3BnA7p_tgu7PBYbb2QRbmBPrITyrFshcDUs845w91dB7zydxGwBKhVZy8W1NaYZl33_vyWnUrotdpEpHx9Me1yvGQgZ1mH6n2XwUUMwMmhq5I-6nCJ3VlUzbrNks9VBaPzWeRf-JjQFu64LxNJfYAmLZcA4GmtjpVEzIRTxj5yOAtEt1uaQQxAzTO2nJiunGyh3DJJ40eWoc8Pgq9lHDrv6ROyrBPoD0py8I4RVlCubh5NXCPt5FvbyF1lE84HsaGhASG6S5jbYCTa4YOEQkS3J9vxk60NuXN2b2uOBR8-irh_zYMLvAs_6zWkqVqYx-zUEGQpl9ZtNuuMz13CuFwZ5L61VvE_u32QDs2wb0A7nZUn2-n4rKXEcoCiq3cKc-fAC8N3cOUxjU_YO8N3E7BXGf-kj6l0XvHrQdkPt0uDUq0DtYFu46_tdyHVVJfLP7BIkUbXaH3b6xA1OvgzjEme04OD-IEbIp1UGUa3oy867oS9eRnCl1ga7bPe26O-Utxc_Mr0IlZtDsVl3q04xgTkLoZG1EmQtsXjQlQ6h6VA6xTL1qwYMb3L-Dlr95mt8jfNbzXex21266Ia0_V5Wk7CXI1LjQ76VVr4xQ8LiC1C3vkrBbMVBmuNLjbpZ2RLNHbVb49ZXt2f0QZEgkEt6GBDqZsmQyBx3JS2EhtnqGY-h2TV7vnWTkGuLlRwHThXBBWJ0Tz1yyE80xsoqMry3chR2WI3elWD1nm7UWV5Zc4Qw2smBI-wxlwz9AQ51DCdJ7LPMlpYBjrA0s6xenN-tOg05dQJiZpnnnON7SaDUzUIsqKLD9G7IYAptNW6KDiaTifB_265mga5usSv7Hs3aOPlR8O6zqAh9GxCSsGDPrOm9cWJZdaRzn_YsvKdMAKR5RPbHR2oRkTbFUtqbiFUWhsoyMGuLWxA828uEfcmTCYH7MPAPdKaGtvwIX8E7yWqOL6cRIg.ZoicZEdAtARQFLf3qvdtbw"
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..C4T0mjojXLbIa0cI.Q4YY0OIBL4uKw-4Dkga2MmQ6ro84AgXkF3s1WRrg92kzQzVfwca47f2eQQWATj285Mwapa8PFd0c3ptvz1ho1eQCgwM0Zm8bx4IQcZP2Ri883xJqZWyJoyOQnXAtr4l2lEMcFkuKEjl0ycJtjQ-M9iE4Qq5dPs_18EaohKn6SkRIaO8qitwBntFWB-95VJ8BzmXH0nVuM6fkNk7ifln0EF6HMToqpasBhxhhVHRRDpxr0GzXXyuYJ90VL_EtYsSsDnriGtPuHRGuh0ExUOv9ehb6UoqlL2oucMtkl2Yp1X9O2VVWDAMx6fRg3NePL6J7UH7OnUc9yyWPo3JBZDC3U9rcsnC4mt0vTf50JxUSersEbIMlJ-r0eBYyo2B24V8pnju7B-WxUlImZiuXlLrX7S1ZjeCrCPsZUyWZOdIVLoENOQYfalYQDcX_HrELHtP-TprcVBErU-9QwmoVjbw4soO6qeGsPB1cGvVOJ8gyxrFrsbFarPxExUtG9abO5ZMxjubYFij0UpSlijcsJ3Xi2PyCqBFVDhTU9_n3yuoumXQ5FBKlU2GbHkvohG6z6OtoZq9GsQr5ITEVd9a30AMk7A9Ec8gNtueYKtrFEj5rz7vVWS1Br5uiofxZpDPp0uzkvN3tgl_4_jNmW9_ZUEKr7cyKHWU8GXIJVsFc-bj691ncDhUnhsnOLo3pCzNcKiBMIIQDP23CpEKltPtezerLp85lekaGz9CWTCemyYHzozn-jcf51vumnxIJe9iM5U8t-PQhEhnnAPap0yjVJUDGBxQi0TwJaTRb_cpnLzAHsZcjHsFCVxrRSq41PhkjrrtMOsAiVAjg4bG9QQh41WoqpFegBlIL-h2rF8pS70PEwQDZaFyG_9pShjhSAhySzeWJlhVBOm-xpWD4aQLoffqDaAf_LvUO6SnDXZtR3YzeCoCiOBq8Fff_brGub8jTPxgjz0xekFlUeVN0uvDXsrANvwFxlCjK8jA9k888Yg.Vzx-l5KEpWzaq8azj8plPw"
   }
 ]
