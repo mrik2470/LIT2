@@ -1,44 +1,5 @@
 [
   {
-    "domain": ".labs.google",
-    "expirationDate": 1801492357.657778,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_ga",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "GA1.1.1340296660.1765300157"
-  },
-  {
-    "domain": "labs.google",
-    "expirationDate": 1769012564,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "EMAIL",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "%22nur28%40mainterms.biz.id%22"
-  },
-  {
-    "domain": ".labs.google",
-    "expirationDate": 1801117534.990932,
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "_ga_5K7X2T4V16",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "GS2.1.s1766556073$o2$g0$t1766557534$j60$l0$h0"
-  },
-  {
     "domain": "labs.google",
     "hostOnly": true,
     "httpOnly": true,
@@ -48,7 +9,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "830e10c41caa17c8a6dd9b80ab3cd843f055aade1462c152193c7c2ff085d70e%7Cc4e0e1e3bd974a2111f00b1ba37d762099a3d18235dc09f792b729b23145ebcf"
+    "value": "793f994a70a1634d3c08f9bfe8ff5378b2a384773e5655c6073aef04a8021308%7Cb152abdfe0124a63d1c948b014880357bb6b46bf993ebeb49a87979d546b2bdc"
   },
   {
     "domain": "labs.google",
@@ -60,7 +21,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "https%3A%2F%2Flabs.google%2Ffx%2Ftools%2Fwhisk%2Fproject%2F20f1f9ea-e763-4ed0-afd3-b1537ef24253%3Fview%3DANIMATE%26imageId%3Dstoryboard-8faccadd-7ca4-42b3-b82f-b7c67aeda5ce"
+    "value": "https%3A%2F%2Flabs.google%2Ffx"
   },
   {
     "domain": "labs.google",
@@ -75,21 +36,21 @@
     "value": "nur28%40mainterms.biz.id"
   },
   {
-    "domain": ".labs.google",
-    "expirationDate": 1801492359.69531,
-    "hostOnly": false,
+    "domain": "labs.google",
+    "expirationDate": 1770566493,
+    "hostOnly": true,
     "httpOnly": false,
-    "name": "_ga_X2GNH8R5NS",
+    "name": "EMAIL",
     "path": "/",
     "sameSite": "unspecified",
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "GS2.1.s1766932351$o83$g1$t1766932359$j52$l0$h635135089"
+    "value": "%22nur28%40mainterms.biz.id%22"
   },
   {
     "domain": "labs.google",
-    "expirationDate": 1769524360.529291,
+    "expirationDate": 1770566494.759351,
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Secure-next-auth.session-token",
@@ -98,6 +59,6 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..FatkdlFC_xAGJFBX.-PKLv2i7DlHLIRoiNVlFpcqlPEfPiqQAtqsGtrDX9qMK8O6KvDqhqhfnX2841IDrgu426CkyNAvccPGBGtujOhaSKz-OyIzgdjaGC6QOtbQp-dARttKSzuK5uYcqBFCnh4tng1cCKyk7Ai7R550h4DMdKDHLNoW0ZsVNycz4ttrpoIA5PNMRcABQYEg0ELxvUdETq-dAF_7EEBOEdQz0JF-HdRLX9FxRQoQtDaRXfUltoBryUhYwUuTJYC_bZmg8633fe4FbLeypMM-OfbnQzo_9mcoFKxH30W8vPc390XT4orFrb7SsUFWRkWxhszGkzOkTC5SPdF0Q7iJE-uYsYqtuPAUIBCXqAZTxO-6Y8iLRDxDQBOVMVtV9vj4trDBC2TDqOKiTK4lSFsh1ZM4lCMVjBMQ0nyCzF9Zc8GLNCiucZOW8CBWUM5TZvhWRTYyNVwnWkk53iRwdy067P_wReulHexfg18qCCd6rcqGRU3CHnEqRmmh7oYUwqD9Wxl_dp4dqbqac90YvF0xMkWv6cIQg6D55lNdlBD-td58Q9zA3uK8iQVfyZOb82jgFNoSXSXmf8e8cG6RTU7OZ3Ol1cpR0iMgs1Mon7_oZqZwpO6sSeDSr7-VkQ7zckIDBWnB18l2o5s0vA4ExmJWMZRGWKxIoMU1EUq7c3Rj5n-yrmi8FSGSqNOS_kOer_Refgp-ypOSScSF8RWkfPnJ54fJ7UDnyMevGAqL3PC9PBCTn_ivfA1j34yH9UAMTX7uqBfqo33ywMAargcGtkjycRquNY2fZ4nQ89Ghne74XRnesf8R1nwn8wUKmOYD6-HgBNFopDguIctHG7C27Lcb9Rgpu1GUIWoMX99ATplaUBG0hWXKFK-2y6r2BeaP59-B5ur78ENomanOKuRjWvKwIYGqxuaJyxg6DC7--ZCobojXQbYHh-16Crg02Gl5ppdx1-npnB1t5co7P6VxOAM977jUeaccPMTwcdqLA0uJW.ubrGjis9dOHYSunlIRVNzg"
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..oYAjTqscEKf1zmvv.iF-g236AJeQ0g2c3hUS16R_NC0ZuNyHKWyLwrOm_MtCKlfjehCysgE3zG03jeICIbK4iQVmZnlwDDRH8GfY_KKjOun9Z5IHgdRzhgl9f7SZsl8hxQJ0MVKApnXH3Qe-0Vmtk3r3x87Loc3FmEnKcA0vF3HXlzbgRAVz0ND8xhXerUcYXFHnVv7hXpD-MbZwsqSL5cL_N_8HcnQ_8HVbeIwtBAq6F34SiORV-jwb3CaCWWE-HtDswzHO6qdbys6-KhaBJK00yUw83iVtozrC1FiqB-ZPO1ZZDoS6CvkrzW9SMm2uuUSuaEdj9FOlM-2X0TOyZuUwOu2F-W7-96lzIR7Abnzh3GANAw3fs5NTo-eHQwnaTCjH1NlKKMN9cNcaE5PySun26Z2ubAX259ZGwmOsjD3RHOXRzwVC_zn2739YiFq2MA7ZFw2h3xuF5RVFjcS4cKBNKXgDfYy7oEK2LS2xEb_SuPy7GjJ-tJvkM5Q23pBqjWOMCUGAsyzrlQf7Avh5iDAqrUJdz0bVVKQ8Wqbp6aOWQ88WkF7V10ai6BL1L2G03TB5GJrVbaMv5V9Nj7ZAWajc5NstfPajGKaL5aEc1__8VHzgSs3561CvwsY_7UWYaQrZYFNbENfl_wLzd2zrnRMhi4ooV6b8ceY0jmr0SkK5rmKECk_71NpiLY2ioYGe2iDwaLEBZU_vojqOS3JYaQuVWa2zGb2iSEa4jVHrfm5PZfzOOx04jyPKGOwcLl8iQv9A6yC6NurXBT-ObCHSU8phbF3DrS6NK7VQ2P3Z6rEl95zUw4WUVf64x8YnOtDYLL8SI1brxrLdBXuUuCp_FhsIf0wH5IRkf3xu995mX6xA_gCswUH9bIMcbpESOWVUmNsXuJ_ZslJwIkwIi8XqozC8WRWzGP_RXEL1g-AisCHh097B2YbwA_k6ZR0OcV_xnEIxpgjpdiopV__dIXvem9Qe5Yud34FfYmVYY62OTpXpa0zEv6w.BWPPyPJAcuDXqDUvl7G8XQ"
   }
 ]
