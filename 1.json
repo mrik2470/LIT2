@@ -1,19 +1,6 @@
 [
   {
     "domain": "labs.google",
-    "expirationDate": 1770889738,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "EMAIL",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "%22nur28%40mainterms.biz.id%22"
-  },
-  {
-    "domain": "labs.google",
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Host-next-auth.csrf-token",
@@ -22,7 +9,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "9a3b9b9373422f01e1e1d74362b8b0735714a0176748f9d71e7892467a83a32f%7C14b3d4e76480f45d7ac7b54a9ec704339f238f6f2a4159fd8158b9c6c7af9cf8"
+    "value": "52b84629af9cc2c5d5ff2db1140022543c5f5134bb23868d27b01f2168b2795e%7C8e32f1ed3e2b00b1a2b00400674d0c3c4ab7ddcb8e5b4936dcc92cdacec61c57"
   },
   {
     "domain": "labs.google",
@@ -34,7 +21,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "https%3A%2F%2Flabs.google%2Ffx%2Ftools%2Fwhisk"
+    "value": "https%3A%2F%2Flabs.google%2Ffx"
   },
   {
     "domain": "labs.google",
@@ -50,7 +37,20 @@
   },
   {
     "domain": "labs.google",
-    "expirationDate": 1770986987.048073,
+    "expirationDate": 1771062435,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "EMAIL",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%22mrik247%40gmail.com%22"
+  },
+  {
+    "domain": "labs.google",
+    "expirationDate": 1771062436.135284,
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Secure-next-auth.session-token",
@@ -59,6 +59,6 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..iK_6LoAXhgJWBOZX.i93JieeV7fkLC9XV8hTvRNIGGma3hm439c7JhiumHnaHSiL9ny_ssxqn4QHg0eGEJ-1jlOC9a0RGa3DSeqGRQhTHIpgfb2_xvn7uOCpREHScRTGSgMeph3qDJOKuXVKxGrWE1oAp-qMmg5vzK5b7lnrz8Xu-UBFCAj3WZZlCru4SBeKFazaZrCQrHnvhicfAVv4kFTJODxQD9KG6iAfn4SeZiVqid36_sH993iQj-VG2iHbiYdm2CCcKMb6Zap9tgiy57GzqzAzzZGDLCidjhhj4p5X3DKxid3WlVkpzDbES69YNVmO7kBpYYDvbueCB5uORVIWTapMxnWBhZdoavTpwkEAonetZyij3REh0NEcomKh6O4KTOZur5mWVb0yr8ctdcAU7-9o3fg0gp42FUBivsHyFqWXLdEtlr95VHTzEvK84XMXSXHHbLo8V8WvgH81c-sWR4Qt1c7sA4tHORI5xfhfrMW96cY2R9DSyan-4bEpJ64RtheGeMxJR8JLh75NpPdbykbvxtZtRKJNut7aEP0qce525_6R8-_0kS9Jr4_EBbVvNaCGzjofADBwUSnxOKq6-TZd0MylO3P2rU1z0B4-jwohdhq3y1c3PajqmjAq6il4w7z8o7a44eerFrjbfR_hDZM_1luDdnffdHW_xm1Qj-ZLNtMWF9XZKQQge5Ov0F-FNcWApbNSifX5dfRdw370_GP_yfysEOR1yZkw6EDko7toKvL6a-87QUS_p0hG-V9xFNqFFK77HUXcszSwYIEH5CoUgikJEpO8PSnF2z_JVbaD_rEoH2Kq0MSDdhowWRLfBaFK9vBkcdHCJ6a5gzZQ5GwOIKx8LpRRVTeF7hoEv5CoEQ1coVj979soPSQw928G-nxaAPfwStCeRKzun64cn6Xi2eTcEdq-FOJrFX1bIk73_CRktBot09e6cPaHa3YHUVpPGI1CVp1dfyU7woPnS6c8ZlYwTk0yJDQweHi0YmzEsG_I.KNgy8jD38qc3xhz4r7Mtvw"
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zQ4LTM7aneHH7a9w.udWexJMy9OkbZtjamgWl4CzNFISsU-SWlLrkz74QW4vIxZzICNIEeC6H0pflgijdd4rrT8oq0EHgkEQlqaQVmbgS_gGzMb7YGBrBvFmYr5evzWSfN_5IrZs0AAK-kLWsYXJ72NQLrJhXssD0AHNlXiZU_jTIuI9VNmO3iOa8n8dgggKNMhQUUVECnn5VawZqQ8m1cROqTvvDIOSiZjLNuevABwK9mNzhdVvZwHK-OnAg7LV_U9ZyO6OrW9GC2T4DNctbzvURTsfZkvOw-oix0JUuHSKWAtJzb3gA1RJg0XpTn8cE7LalKIyFJf8Bm4RWnAicaapc3rVj5u8BpwtD7KPH41H-CNuIauq4H3hWyQWIVdF1iBv8RYUiStcSyjiBLheJnGGHWOCCnzjgYMROQ-WZn4n_dE-dco3aonBSTTJEHy-gxppMqdSHYIdhEgqDAldZLAaBjcRRBmQ8RxoNZ1VUz_RiPtsE958fhNM0ktIakKEAnxOzgyBmmpiaYfi09SAK012zZ9UBks1YnSNGNUm53L_IAXO44QJW1-8abANFwa5b2dh3tuQ80Muz4qp8JepQBGQ-rwrtrnaPwDFKHyzmQXg-QUesniovbXFkXnQVB-gzWsGeSO2BjWF0BLLkiqso8l6UeqohXLNmUHCIUaJ-n5LWmPcZCSWWxEL1EDdGZxqdF1I92a11w81EduiRELZ7j_aR2Hcy_TRyZj-AHKe9h-c5ZU5DjpSuiiNZ71mmn71OvrmLbyWZJ5hv4fcEL9Bmi8moAitcnv4FGp56vvp57A5ccmcu0hpkxTlAVD3fexRtqEnl9uTzFMuE5bMQoWXRdumbnQzYwFax0AYoCSefnQnWUDaIa2prbXGAjy_ghWUYr34R-wpDgTgTDgHTNgHvx6v3gMFaV6Ra9SWTHrLGIkS3XhHn05hR0t2aGOh-vRNrSNJcBXCEgc99WSjVnE4nJBftwyS5J3NsuCGaSSTipANc6Se5lY0.9GZpRGS9f6X3WjxcpLlKvw"
   }
 ]
