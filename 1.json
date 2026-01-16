@@ -1,6 +1,19 @@
 [
   {
     "domain": "labs.google",
+    "expirationDate": 1771062543,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "EMAIL",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%22aliprogifts4you%40gmail.com%22"
+  },
+  {
+    "domain": "labs.google",
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Host-next-auth.csrf-token",
@@ -9,7 +22,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "52b84629af9cc2c5d5ff2db1140022543c5f5134bb23868d27b01f2168b2795e%7C8e32f1ed3e2b00b1a2b00400674d0c3c4ab7ddcb8e5b4936dcc92cdacec61c57"
+    "value": "9ff436d198fbddce35922658bc428eda62f2291d7eae984f02ce88f076137f8d%7Ceafdf54ae1b08482b372318e04effcb62c05c5ab08b8c7f8b24d9984e4a9546b"
   },
   {
     "domain": "labs.google",
@@ -21,7 +34,7 @@
     "secure": true,
     "session": true,
     "storeId": "0",
-    "value": "https%3A%2F%2Flabs.google%2Ffx"
+    "value": "https%3A%2F%2Flabs.google%2Ffx%2Ftools%2Fwhisk"
   },
   {
     "domain": "labs.google",
@@ -37,20 +50,7 @@
   },
   {
     "domain": "labs.google",
-    "expirationDate": 1771062435,
-    "hostOnly": true,
-    "httpOnly": false,
-    "name": "EMAIL",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": false,
-    "session": false,
-    "storeId": "0",
-    "value": "%22mrik247%40gmail.com%22"
-  },
-  {
-    "domain": "labs.google",
-    "expirationDate": 1771062436.135284,
+    "expirationDate": 1771136701.769473,
     "hostOnly": true,
     "httpOnly": true,
     "name": "__Secure-next-auth.session-token",
@@ -59,6 +59,6 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zQ4LTM7aneHH7a9w.udWexJMy9OkbZtjamgWl4CzNFISsU-SWlLrkz74QW4vIxZzICNIEeC6H0pflgijdd4rrT8oq0EHgkEQlqaQVmbgS_gGzMb7YGBrBvFmYr5evzWSfN_5IrZs0AAK-kLWsYXJ72NQLrJhXssD0AHNlXiZU_jTIuI9VNmO3iOa8n8dgggKNMhQUUVECnn5VawZqQ8m1cROqTvvDIOSiZjLNuevABwK9mNzhdVvZwHK-OnAg7LV_U9ZyO6OrW9GC2T4DNctbzvURTsfZkvOw-oix0JUuHSKWAtJzb3gA1RJg0XpTn8cE7LalKIyFJf8Bm4RWnAicaapc3rVj5u8BpwtD7KPH41H-CNuIauq4H3hWyQWIVdF1iBv8RYUiStcSyjiBLheJnGGHWOCCnzjgYMROQ-WZn4n_dE-dco3aonBSTTJEHy-gxppMqdSHYIdhEgqDAldZLAaBjcRRBmQ8RxoNZ1VUz_RiPtsE958fhNM0ktIakKEAnxOzgyBmmpiaYfi09SAK012zZ9UBks1YnSNGNUm53L_IAXO44QJW1-8abANFwa5b2dh3tuQ80Muz4qp8JepQBGQ-rwrtrnaPwDFKHyzmQXg-QUesniovbXFkXnQVB-gzWsGeSO2BjWF0BLLkiqso8l6UeqohXLNmUHCIUaJ-n5LWmPcZCSWWxEL1EDdGZxqdF1I92a11w81EduiRELZ7j_aR2Hcy_TRyZj-AHKe9h-c5ZU5DjpSuiiNZ71mmn71OvrmLbyWZJ5hv4fcEL9Bmi8moAitcnv4FGp56vvp57A5ccmcu0hpkxTlAVD3fexRtqEnl9uTzFMuE5bMQoWXRdumbnQzYwFax0AYoCSefnQnWUDaIa2prbXGAjy_ghWUYr34R-wpDgTgTDgHTNgHvx6v3gMFaV6Ra9SWTHrLGIkS3XhHn05hR0t2aGOh-vRNrSNJcBXCEgc99WSjVnE4nJBftwyS5J3NsuCGaSSTipANc6Se5lY0.9GZpRGS9f6X3WjxcpLlKvw"
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Xq3NmeSQ7M_CyzrE.izls-JGreFwDZrKCo3xQYaUnzTl2XccT5g06pW1HdQhX4uvG5X4iJ5Xv4Oqji6_LjqEB3c65mIa9nHzuL9Udb22zo9IPJlEiwbLgjP_f6e8n54fqi24NK0W7Piq6CWLt7JrsW6O_MOaE0SDhfGeb_pN6Q9KfsewW2k8NzcuNomBO69aOPXrkkL2OUw1WO22MF1CkrWa4EmmvC7E1GALGz6r4pHSSmFcQya2gc_WSfvvgEjyUnSYaHan0zfEJPdVvcOfA-1CRpraxwkmM5jbcG0mBN4DacHsWBpxQhOKx80wlzBGE4qDhEnfixr1WO6eQhfbibRVHEb24wwrkPyv55avYAkBpzJ_imrZBjr1iScv-ti9M9p-lROhPQXrOEpXNU1yaLAc0aV90jFc4VnBj4pAwP7J8NL-L-GjT_aOZ-tU6xpNbrnQ1QWJxG9ywUeJS7sf9MFA1mIIz9-5roXvePOiHP4FZ3zObjPzbICHq_MMzd_KZTJrnCk3mUaUGZTG0ovhxnXTRGwwcwxxn36-Moyl6lVO44TINS0K-_6o1RZuARyeNn1UEVkGkAM9Vm7syEGRWJVdzJBcqJfnTrGV3_ePv1VyJd8v_f1DDrVBNGjFFquEuY8P136V9IUp59rN3Co3aglUdkNQ3DtwEXySEX_pb1MQ5ZFdakK2LNK7CjZnRRCaZT2H9WZecDetRHV_jk7mZRujJ6SFfdvXr2yttl6_CkbILXzB71peLfnm0YklyO2hEUQns6P_vhCIo0X-m4KSuC1Etayhd47JkMnNEzk_HB-tLYg7QohUd6B6OoHj3qiKXDN951yYkfpsnN4OcAmlfPM9MyJySlTgIpnL6slp-7xNwkPHgR9e4mcqEim3Xv7qkDuVnQNg4ZeqNGHjbGE5nN5f7YQ22zedgWjd3cepg6OvR9WI0XUCLEt-hz5XAp1yZ7T0mYJPDBI1JIUbxbLRvZGGOkXAQU2KHVfTtqLKGB0FHWMteYycx.cwHu21lzFkOuZUvRGxIqGg"
   }
 ]
